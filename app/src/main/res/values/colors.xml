@@ -1,0 +1,28 @@
+<resources>
+    <!-- Existing colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="welcome_text">#388E3C</color>       <!-- Greenish for success -->
+    <color name="secondary_text">#757575</color>
+    <!-- Add these new colors for your layout -->
+    <color name="button_primary">#6200EE</color> <!-- Matching primary purple -->
+
+    <color name="background">#FFF5F5F5</color>  <!-- Light gray background -->
+    <color name="primary_text">#212121</color>  <!-- Dark gray for text -->
+    <color name="divider">#E0E0E0</color>      <!-- Light divider color -->
+    <color name="primary">#6200EE</color>       <!-- Same as colorPrimary -->
+    <color name="background_primary">#F8F9FA</color>
+    <color name="primary_green">#2E7D32</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    <color name="text_primary">#212121</color>
+    <color name="white_secondary">#E8F5E8</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#7F8C8D</color>
+</resources>

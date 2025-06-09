@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SklepBezglutenowy</string>
+    <string name="welcome_default">Welcome, %s!</string>
+    <string name="welcome_message">Welcome, %s!</string>
+    <string name="product_catalog_title">Gluten-Free Products</string>
+    <string name="logout">Logout</string>
+    <string name="cart">Cart</string>
+
+</resources>
